@@ -19,7 +19,7 @@ A list of projects I created, maintain or contribute to.
 
 # Odo
 - [Odo.js](https://github.com/odojs/odojs) (author) FrontEnd modules like react using [virtual-dom](https://github.com/Matt-Esch/virtual-dom) inspired by [deku](https://github.com/segmentid/deku/). Best understood through the [Odo.js Handbook Example](https://github.com/odojs/odojs-handbook).
-  - [odo-relay]
+  - [Odo Relay](https://github.com/odojs/odo-relay) (author) The [relay pattern](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html) for Odo.js and OdoQL.
 - [OdoQL](https://github.com/odojs/odoql) (author) An extendible, composable and modular query language in JSON. [Examples](https://github.com/odojs/odoql/tree/master/examples) available.
   - [OdoQL Exe](https://github.com/odojs/odoql-exe) (author) Execution strategies for OdoQL.
   - [OdoQL FS](https://github.com/odojs/odoql-fs) (author) Read files in OdoQL.
