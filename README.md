@@ -11,7 +11,6 @@ A list of projects I created, maintain or contribute to.
 - [Consul Utils](https://github.com/metocean/consul-utils) (author) Partial Node.js API for Consul.
 - [Consul Backup](https://github.com/metocean/consul-backup) (author) `consul-backup` and `consul-restore` for moving files and folders into and out of Consul.
 - [Consul Sync](https://github.com/metocean/consul-sync) (author) Keep a file's contents updated based on the value of a Consul key.
-- [Tugboat-py](https://github.com/metocean/tugboat-py) (author) Docker Compose for multiple groups.
 - [Doppelgänger](https://github.com/metocean/doppelganger) (author) Register Consul services dynamically.
 - [Redwire](https://github.com/metocean/redwire) (author) A dynamic, high performance, load balancing reverse proxy written in Node.js.
 - [Vertical Check](https://github.com/metocean/verticalcheck) (author) Check DNS, ping and http.
@@ -35,6 +34,7 @@ A list of projects I created, maintain or contribute to.
 
 # Time
 - [Timespanner](https://github.com/metocean/timespanner) (author) Control time with strings like '(Pacific/Auckland)now/d+5d6h'.
+- [Chronological](https://github.com/metocean/chronological) (author) Cron-like time schedule format and calculator using proper timezone information from momentjs timezone
 - [D3 Chronological](https://github.com/metocean/d3-chronological) (author) D3 time scale using proper timezone information from momentjs timezone.
 
 # Odo
@@ -65,8 +65,9 @@ A list of projects I created, maintain or contribute to.
 - [iquad](https://github.com/metocean/iquad) (author) GeoJSON tile server
 - [quaddy](https://github.com/metocean/quaddy) (author) Store, process and query a pre-allocated quadtree.
 
-# Dockers
-- [Aroha](https://github.com/metocean/docker-aroha) (core contributor) 
+# Docker
+- [Tugboat-py](https://github.com/metocean/tugboat-py) (author) Docker Compose for multiple groups.
+- [Aroha](https://github.com/metocean/docker-aroha) (author) Runit, Syslog-ng and Consul with an init script
 - [Aroha Webstack](https://github.com/metocean/docker-aroha-webstack) (author) Node.js and ZeroMQ on Aroha
 - [Mini Node.js](https://github.com/metocean/docker-mini-nodejs) (author) Node.js running on Alpine Linux with Runit and Syslog-ng.
 - [Mini Node.js Consul](https://github.com/metocean/docker-mini-nodejs-consul) (author) Node.js running on Alpine Linux with Runit, Syslog-ng and Consul.
