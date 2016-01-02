@@ -69,8 +69,6 @@ A list of projects I created, maintain or contribute to.
 - [Tugboat-py](https://github.com/metocean/tugboat-py) (author) Docker Compose for multiple groups.
 - [Aroha](https://github.com/metocean/docker-aroha) (author) Runit, Syslog-ng and Consul with an init script
 - [Aroha Webstack](https://github.com/metocean/docker-aroha-webstack) (author) Node.js and ZeroMQ on Aroha
-- [Mini Node.js](https://github.com/metocean/docker-mini-nodejs) (author) Node.js running on Alpine Linux with Runit and Syslog-ng.
-- [Mini Node.js Consul](https://github.com/metocean/docker-mini-nodejs-consul) (author) Node.js running on Alpine Linux with Runit, Syslog-ng and Consul.
 - [Redis Consul](https://github.com/metocean/docker-redis-consul) (author) Redis with Consul.
 - [RethinkDB Consul](https://github.com/metocean/docker-rethinkdb-consul) (author) RethinkDB with Consul and auto join functionality.
 - [PhantomJS Consul](https://github.com/metocean/docker-phantomjs-consul) (author) PhantomJS with Consul and Node.js.
@@ -87,3 +85,5 @@ A list of projects I created, maintain or contribute to.
 - [ducke](https://github.com/metocean/ducke) (author) Node.js Docker api and cli.
 - [tugboat](https://github.com/metocean/tugboat) (author) Node.js version of tugboat. Use [tugboat-py](https://github.com/metocean/tugboat-py) instead.
 - [baseimage-docker-nodejs](https://github.com/metocean/baseimage-docker-nodejs) (author) Depreciated Node.js container on top of [phusion baseimage](https://github.com/phusion/baseimage-docker).
+- [Mini Node.js](https://github.com/metocean/docker-mini-nodejs) (author) Node.js running on Alpine Linux with Runit and Syslog-ng.
+- [Mini Node.js Consul](https://github.com/metocean/docker-mini-nodejs-consul) (author) Node.js running on Alpine Linux with Runit, Syslog-ng and Consul.
