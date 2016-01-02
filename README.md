@@ -5,7 +5,6 @@ A list of projects I created, maintain or contribute to.
 # Misc
 - [flexy-grid](https://github.com/odojs/flexy-grid) (author) Flexbox grid css.
 - [pokemon-emails](https://github.com/odojs/pokemon-emails) (author) Catchall email proxy.
-- [npm-christmas](https://github.com/odojs/npm-christmas) (author) The opposite of shrinkwrap, releases all your versions.
 - [dve](https://github.com/metocean/dve) (core contributor) Visualisations built from a simple json structure.
 - [NetCDFjs](https://github.com/metocean/netcdfjs) (author) Read NetCDF files in the browser and with Node.js.
 - [Consul Utils](https://github.com/metocean/consul-utils) (author) Partial Node.js API for Consul.
@@ -78,6 +77,7 @@ A list of projects I created, maintain or contribute to.
 # Depreciated
 - [Odo](https://github.com/odojs/odo) [Odo UI](https://github.com/odojs/odo-ui) [Odo Example](https://github.com/odojs/odo-example) (author) - Old Node.js and Durandal library. Use [Odo.js](https://github.com/odojs/odojs) instead.
 - [Enhance](https://github.com/odojs/enhance) (author) - Manage multiple git repositories at once. Use [gr](https://github.com/mixu/gr) instead.
+- [npm-christmas](https://github.com/odojs/npm-christmas) (author) The opposite of shrinkwrap, releases all your versions. Use [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) instead.
 - [Bump](https://github.com/odojs/bump) (author) - Increment version numbers for npm and bower. Use `npm version` instead.
 - [Statistics](https://github.com/odojs/odo-statistics) (author) - Track string based statistics. There is probably a nicer way to do this involving [statsd](https://github.com/etsy/statsd).
 - [tapinto](https://github.com/odojs/tapinto) (author) - Small Aspect Oriented Programming library to intercept method calls. Unused.
@@ -86,4 +86,4 @@ A list of projects I created, maintain or contribute to.
 - [tugboat](https://github.com/metocean/tugboat) (author) Node.js version of tugboat. Use [tugboat-py](https://github.com/metocean/tugboat-py) instead.
 - [baseimage-docker-nodejs](https://github.com/metocean/baseimage-docker-nodejs) (author) Depreciated Node.js container on top of [phusion baseimage](https://github.com/phusion/baseimage-docker).
 - [Mini Node.js](https://github.com/metocean/docker-mini-nodejs) (author) Node.js running on Alpine Linux with Runit and Syslog-ng.
-- [Mini Node.js Consul](https://github.com/metocean/docker-mini-nodejs-consul) (author) Node.js running on Alpine Linux with Runit, Syslog-ng and Consul.
+- [Mini Node.js Consul](https://github.com/metocean/docker-mini-nodejs-consul) (author) Node.js running on Alpine Linux with Runit, Syslog-ng and Consul. Use [Aroha](https://github.com/metocean/docker-aroha) instead.
