@@ -8,7 +8,6 @@ A list of projects I created, maintain or contribute to.
 - [npm-christmas](https://github.com/odojs/npm-christmas) (author) The opposite of shrinkwrap, releases all your versions.
 - [dve](https://github.com/metocean/dve) (core contributor) Visualisations built from a simple json structure.
 - [NetCDFjs](https://github.com/metocean/netcdfjs) (author) Read NetCDF files in the browser and with Node.js.
-- [Timespanner](https://github.com/metocean/timespanner) (author) Control time with strings like '(Pacific/Auckland)now/d+5d6h'.
 - [Consul Utils](https://github.com/metocean/consul-utils) (author) Partial Node.js API for Consul.
 - [Consul Backup](https://github.com/metocean/consul-backup) (author) `consul-backup` and `consul-restore` for moving files and folders into and out of Consul.
 - [Consul Sync](https://github.com/metocean/consul-sync) (author) Keep a file's contents updated based on the value of a Consul key.
@@ -16,6 +15,27 @@ A list of projects I created, maintain or contribute to.
 - [Doppelgänger](https://github.com/metocean/doppelganger) (author) Register Consul services dynamically.
 - [Redwire](https://github.com/metocean/redwire) (author) A dynamic, high performance, load balancing reverse proxy written in Node.js.
 - [Vertical Check](https://github.com/metocean/verticalcheck) (author) Check DNS, ping and http.
+- [Oakie](https://github.com/tcoats/oakie) (author) Simple tree methods.
+- [Doshit](https://github.com/metocean/doshit) (core contributor) Get stuff done with Node.js and Python.
+- [Mutunga](https://github.com/metocean/http-mutunga) (author) An http server that closes idle connections when closing.
+- [Whakaruru](https://github.com/metocean/whakaruru) (author) Zero downtime reloading http server.
+- [Whakaruru Watch](https://github.com/metocean/whakaruru-watch) (author) Zero downtime automatically reloading http server.
+
+# Interactive Earth
+- [D3 QuadTiles](https://github.com/metocean/d3-quadtiles) Clip tiles in a D3 projection for rendering.
+- [D3 Geo Raster](https://github.com/metocean/d3-geo-raster) Rasterise tile images in a D3 projection as canvas elements.
+- [Interactive Earth](https://github.com/metocean/interactive-earth) (core contributor) A 3d interactive earth that lets you layer data visualizations on top of it
+- [Interactive Earth Handbook](https://github.com/metocean/interactive-earth-handbook) (core contributor) Good starting point for interactive-earth
+- [Interactive Earth Tiles](https://github.com/metocean/interactive-earth-tiles) (core contributor) Tile layers for interactive-earth
+- [Interactive Earth Polygons](https://github.com/metocean/interactive-earth-polygons) (core contributor) Polygon display for interactive earth. Coastlines, etc.
+- [Interactive Earth Points](https://github.com/metocean/interactive-earth-points) (core contributor) Points layer for interactive-earth
+- [Interactive Earth Interaction](https://github.com/metocean/interactive-earth-interaction) (author) Interaction layer for interactive-earth.
+- [Smooth Tile Zoom](https://github.com/metocean/smoothtilezoom) (author) Smooth zoom calculations to stop popping while panning.
+- [Subdivide Line](https://github.com/metocean/subdivideline) (author) Callback n times along a 2D line from a to b
+
+# Time
+- [Timespanner](https://github.com/metocean/timespanner) (author) Control time with strings like '(Pacific/Auckland)now/d+5d6h'.
+- [D3 Chronological](https://github.com/metocean/d3-chronological) (author) D3 time scale using proper timezone information from momentjs timezone.
 
 # Odo
 - [Odo.js](https://github.com/odojs/odojs) (author) FrontEnd modules like react using [virtual-dom](https://github.com/Matt-Esch/virtual-dom) inspired by [deku](https://github.com/segmentid/deku/). Best understood through the [Odo.js Handbook Example](https://github.com/odojs/odojs-handbook).
@@ -37,7 +57,17 @@ A list of projects I created, maintain or contribute to.
   - [odo-layers](https://github.com/odojs/odo-layers) (author) Layered store with commit and rollback.
   - [odo-route](https://github.com/odojs/odo-route) (author) Route url patterns to functions.
 
+# Cartography
+- [Leaflet GeoTileLayer](https://github.com/metocean/leaflet-geotilelayer) (author) Display GeoJSON tiles in Leaflet.
+- [lnglattotile](https://github.com/metocean/lnglattotile) (author) Convert Longitude and Latitude to Tile coordinates.
+- [lnglattotilefloat](https://github.com/metocean/lnglattotilefloat) (author) Convert Longitude and Latitude to partial Tile coordinates
+- [tiletolnglat](https://github.com/metocean/tiletolnglat) (author) Convert tile coordinates to Longitude and Latitude
+- [iquad](https://github.com/metocean/iquad) (author) GeoJSON tile server
+- [quaddy](https://github.com/metocean/quaddy) (author) Store, process and query a pre-allocated quadtree.
+
 # Dockers
+- [Aroha](https://github.com/metocean/docker-aroha) (core contributor) 
+- [Aroha Webstack](https://github.com/metocean/docker-aroha-webstack) (author) Node.js and ZeroMQ on Aroha
 - [Mini Node.js](https://github.com/metocean/docker-mini-nodejs) (author) Node.js running on Alpine Linux with Runit and Syslog-ng.
 - [Mini Node.js Consul](https://github.com/metocean/docker-mini-nodejs-consul) (author) Node.js running on Alpine Linux with Runit, Syslog-ng and Consul.
 - [Redis Consul](https://github.com/metocean/docker-redis-consul) (author) Redis with Consul.
