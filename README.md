@@ -1,6 +1,6 @@
 # Projects
 
-A list of projects I created, maintain or contribute to.
+Awesome projects for awesome people.
 
 # Misc
 - [flexy-grid](https://github.com/odojs/flexy-grid) (author) Flexbox grid css.
