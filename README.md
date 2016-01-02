@@ -20,6 +20,8 @@ A list of projects I created, maintain or contribute to.
 - [Whakaruru Watch](https://github.com/metocean/whakaruru-watch) (author) Zero downtime automatically reloading http server.
 
 # Interactive Earth
+See [demo](http://metocean.github.io/interactive-earth-handbook/) for example functionality.
+
 - [D3 QuadTiles](https://github.com/metocean/d3-quadtiles) Clip tiles in a D3 projection for rendering.
 - [D3 Geo Raster](https://github.com/metocean/d3-geo-raster) Rasterise tile images in a D3 projection as canvas elements.
 - [Interactive Earth](https://github.com/metocean/interactive-earth) (core contributor) A 3d interactive earth that lets you layer data visualizations on top of it
