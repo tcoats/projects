@@ -77,7 +77,7 @@ See [demo](http://metocean.github.io/interactive-earth-handbook/) for example fu
 - [Nginx PHP Consul](https://github.com/metocean/docker-nginx-php-consul) (author) Nginx with PHP and Consul.
 
 # Depreciated
-- [Odo](https://github.com/odojs/odo) [Odo UI](https://github.com/odojs/odo-ui) [Odo Example](https://github.com/odojs/odo-example) (author) - Old Node.js and Durandal library. Use [Odo.js](https://github.com/odojs/odojs) instead.
+- [Odo](https://github.com/odojs/odo), [Odo UI](https://github.com/odojs/odo-ui), [Odo Example](https://github.com/odojs/odo-example) (author) - Old Node.js and Durandal library. Use [Odo.js](https://github.com/odojs/odojs) instead.
 - [Enhance](https://github.com/odojs/enhance) (author) - Manage multiple git repositories at once. Use [gr](https://github.com/mixu/gr) instead.
 - [npm-christmas](https://github.com/odojs/npm-christmas) (author) The opposite of shrinkwrap, releases all your versions. Use [npm-check-updates](https://www.npmjs.com/package/npm-check-updates) instead.
 - [Bump](https://github.com/odojs/bump) (author) - Increment version numbers for npm and bower. Use `npm version` instead.
