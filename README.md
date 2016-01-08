@@ -1,7 +1,5 @@
 # Projects
 
-Awesome projects for awesome people.
-
 # Misc
 - [flexy-grid](https://github.com/odojs/flexy-grid) (author) Flexbox grid css.
 - [pokemon-emails](https://github.com/odojs/pokemon-emails) (author) Catchall email proxy.
