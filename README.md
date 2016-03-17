@@ -1,5 +1,35 @@
 # Projects
 
+# Odo
+- [Odo.js](https://github.com/odojs/odojs) (author) FrontEnd modules like react using [virtual-dom](https://github.com/Matt-Esch/virtual-dom) inspired by [deku](https://github.com/segmentid/deku/). Best understood through the [Odo.js Handbook Example](https://github.com/odojs/odojs-handbook) or [Odo.js Lite](https://github.com/odojs/odojs-lite).
+  - [Odo Relay](https://github.com/odojs/odo-relay) (author) The [relay pattern](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html) for Odo.js and OdoQL.
+  - [Odo.js Autocomplete](https://github.com/odojs/odojs-autocomplete) (author) Autocomplete helper.
+- [OdoQL](https://github.com/odojs/odoql) (author) An extendible, composable and modular query language in JSON. [Examples](https://github.com/odojs/odoql/tree/master/examples) available.
+  - [OdoQL Exe](https://github.com/odojs/odoql-exe) (author) Execution strategies for OdoQL.
+  - [OdoQL FS](https://github.com/odojs/odoql-fs) (author) Read files in OdoQL.
+  - [OdoQL JSON](https://github.com/odojs/odoql-json) (author) Interpret strings as JSON in OdoQL.
+  - [OdoQL YAML](https://github.com/odojs/odoql-yaml) (author) Interpret strings as YAML in OdoQL. Using the great [js-yaml](https://github.com/nodeca/js-yaml) library.
+  - [OdoQL HTTP](https://github.com/odojs/odoql-http) (author) HTTP requests from OdoQL using the excellent [superagent](https://github.com/visionmedia/superagent) library for Node.js and browser http support
+  - [OdoQL CSV](https://github.com/odojs/odoql-csv) (author) Interpret strings as CSV / TSV in OdoQL. Uses the fun [BabyParse](https://github.com/Rich-Harris/BabyParse) library - a Node.js and browser compatible version of [PapaParse](http://papaparse.com/).
+  - [OdoQL localStorage](https://github.com/odojs/odoql-localstorage) (author) Access localstorage from OdoQL.
+  - [OdoQL RethinkDB](https://github.com/odojs/odoql-rethinkdb) (author) Query RethinkDB from OdoQL.
+- Misc
+  - [odo-hub](https://github.com/odojs/odo-hub) (author) Simple pub sub.
+  - [odo-sequencer](https://github.com/odojs/odo-sequencer) (author) Maintain constant sequence of callbacks.
+  - [odo-template](https://github.com/odojs/odo-template) (author) Simple templating.
+  - [odo-async](https://github.com/odojs/odo-async) (author) Simple async.
+  - [odo-layers](https://github.com/odojs/odo-layers) (author) Layered store with commit and rollback.
+  - [odo-route](https://github.com/odojs/odo-route) (author) Route url patterns to functions.
+  - [odo-math](https://github.com/odojs/odo-math) (author) Supplementary Mathematical Helpers.
+
+# Resolute
+- [Resolute](https://github.com/odojs/resolute) (author) Reliable messaging in Node.js.
+- [Resolute Saga](https://github.com/odojs/resolute-saga) (author) Saga pattern for resolute.
+- [Shulz](https://github.com/odojs/shulz) (author) Resilient, persistent in process hashmaps for Node.js.
+- [Seuss](https://github.com/odojs/seuss) (author) Resilient, persistent in process queue for Node.js.
+- [Seuss Queue](https://github.com/odojs/seuss-queue) (author) Efficient memory based queue.
+- [Seuss Backoff](https://github.com/odojs/seuss-backoff) (author) Exponential backoff queue.
+
 # Misc
 - [flexy-grid](https://github.com/odojs/flexy-grid) (author) Flexbox grid css.
 - [pokemon-emails](https://github.com/odojs/pokemon-emails) (author) Catchall email proxy.
@@ -12,9 +42,9 @@
 - [Redwire](https://github.com/metocean/redwire) (author) A dynamic, high performance, load balancing reverse proxy written in Node.js.
 - [Oakie](https://github.com/tcoats/oakie) (author) Simple tree methods.
 - [Doshit](https://github.com/metocean/doshit) (core contributor) Get stuff done with Node.js and Python.
-- [Mutunga](https://github.com/metocean/http-mutunga) (author) An http server that closes idle connections when closing.
-- [Whakaruru](https://github.com/metocean/whakaruru) (author) Zero downtime reloading http server.
-- [Whakaruru Watch](https://github.com/metocean/whakaruru-watch) (author) Zero downtime automatically reloading http server.
+- [Mutunga](https://github.com/odojs/http-mutunga) (author) An http server that closes idle connections when closing.
+- [Whakaruru](https://github.com/odojs/whakaruru) (author) Zero downtime reloading http server.
+- [Whakaruru Watch](https://github.com/odojs/whakaruru-watch) (author) Zero downtime automatically reloading http server.
 - [Maximum Effort](https://github.com/odojs/maximumeffort) (author) Dispatch tasks to Web Workers.
 - [Check Check](https://github.com/odojs/checkcheck) (author) Build a validator.
 - [Perm](https://github.com/odojs/perm) (author) Super simple permissions.
@@ -40,28 +70,6 @@ See [demo](http://metocean.github.io/interactive-earth-handbook/) for example fu
 - [Timespanner](https://github.com/metocean/timespanner) (author) Control time with strings like '(Pacific/Auckland)now/d+5d6h'.
 - [Chronological](https://github.com/metocean/chronological) (author) Cron-like time schedule format and calculator using proper timezone information from momentjs timezone
 - [D3 Chronological](https://github.com/metocean/d3-chronological) (author) D3 time scale using proper timezone information from momentjs timezone.
-
-# Odo
-- [Odo.js](https://github.com/odojs/odojs) (author) FrontEnd modules like react using [virtual-dom](https://github.com/Matt-Esch/virtual-dom) inspired by [deku](https://github.com/segmentid/deku/). Best understood through the [Odo.js Handbook Example](https://github.com/odojs/odojs-handbook) or [Odo.js Lite](https://github.com/odojs/odojs-lite).
-  - [Odo Relay](https://github.com/odojs/odo-relay) (author) The [relay pattern](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html) for Odo.js and OdoQL.
-  - [Odo.js Autocomplete](https://github.com/odojs/odojs-autocomplete) (author) Autocomplete helper.
-- [OdoQL](https://github.com/odojs/odoql) (author) An extendible, composable and modular query language in JSON. [Examples](https://github.com/odojs/odoql/tree/master/examples) available.
-  - [OdoQL Exe](https://github.com/odojs/odoql-exe) (author) Execution strategies for OdoQL.
-  - [OdoQL FS](https://github.com/odojs/odoql-fs) (author) Read files in OdoQL.
-  - [OdoQL JSON](https://github.com/odojs/odoql-json) (author) Interpret strings as JSON in OdoQL.
-  - [OdoQL YAML](https://github.com/odojs/odoql-yaml) (author) Interpret strings as YAML in OdoQL. Using the great [js-yaml](https://github.com/nodeca/js-yaml) library.
-  - [OdoQL HTTP](https://github.com/odojs/odoql-http) (author) HTTP requests from OdoQL using the excellent [superagent](https://github.com/visionmedia/superagent) library for Node.js and browser http support
-  - [OdoQL CSV](https://github.com/odojs/odoql-csv) (author) Interpret strings as CSV / TSV in OdoQL. Uses the fun [BabyParse](https://github.com/Rich-Harris/BabyParse) library - a Node.js and browser compatible version of [PapaParse](http://papaparse.com/).
-  - [OdoQL localStorage](https://github.com/odojs/odoql-localstorage) (author) Access localstorage from OdoQL.
-  - [OdoQL RethinkDB](https://github.com/odojs/odoql-rethinkdb) (author) Query RethinkDB from OdoQL.
-- Misc
-  - [odo-hub](https://github.com/odojs/odo-hub) (author) Simple pub sub.
-  - [odo-sequencer](https://github.com/odojs/odo-sequencer) (author) Maintain constant sequence of callbacks.
-  - [odo-template](https://github.com/odojs/odo-template) (author) Simple templating.
-  - [odo-async](https://github.com/odojs/odo-async) (author) Simple async.
-  - [odo-layers](https://github.com/odojs/odo-layers) (author) Layered store with commit and rollback.
-  - [odo-route](https://github.com/odojs/odo-route) (author) Route url patterns to functions.
-  - [odo-math](https://github.com/odojs/odo-math) (author) Supplementary Mathematical Helpers.
 
 # Cartography
 - [Leaflet GeoTileLayer](https://github.com/metocean/leaflet-geotilelayer) (author) Display GeoJSON tiles in Leaflet.
