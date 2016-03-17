@@ -10,7 +10,6 @@
 - [Consul Sync](https://github.com/metocean/consul-sync) (author) Keep a file's contents updated based on the value of a Consul key.
 - [Doppelgänger](https://github.com/metocean/doppelganger) (author) Register Consul services dynamically.
 - [Redwire](https://github.com/metocean/redwire) (author) A dynamic, high performance, load balancing reverse proxy written in Node.js.
-- [Vertical Check](https://github.com/metocean/verticalcheck) (author) Check DNS, ping and http.
 - [Oakie](https://github.com/tcoats/oakie) (author) Simple tree methods.
 - [Doshit](https://github.com/metocean/doshit) (core contributor) Get stuff done with Node.js and Python.
 - [Mutunga](https://github.com/metocean/http-mutunga) (author) An http server that closes idle connections when closing.
@@ -80,6 +79,7 @@ See [demo](http://metocean.github.io/interactive-earth-handbook/) for example fu
 - [Nginx Consul](https://github.com/metocean/docker-nginx-consul) (author) Nginx with Consul.
 - [Nginx PHP Consul](https://github.com/metocean/docker-nginx-php-consul) (author) Nginx with PHP and Consul.
 
+<!--
 # Depreciated
 - [Odo](https://github.com/odojs/odo), [Odo UI](https://github.com/odojs/odo-ui), [Odo Example](https://github.com/odojs/odo-example) (author) - Old Node.js and Durandal library. Use [Odo.js](https://github.com/odojs/odojs) instead.
 - [Enhance](https://github.com/odojs/enhance) (author) - Manage multiple git repositories at once. Use [gr](https://github.com/mixu/gr) instead.
@@ -93,3 +93,5 @@ See [demo](http://metocean.github.io/interactive-earth-handbook/) for example fu
 - [baseimage-docker-nodejs](https://github.com/metocean/baseimage-docker-nodejs) (author) Depreciated Node.js container on top of [phusion baseimage](https://github.com/phusion/baseimage-docker).
 - [Mini Node.js](https://github.com/metocean/docker-mini-nodejs) (author) Node.js running on Alpine Linux with Runit and Syslog-ng.
 - [Mini Node.js Consul](https://github.com/metocean/docker-mini-nodejs-consul) (author) Node.js running on Alpine Linux with Runit, Syslog-ng and Consul. Use [Aroha](https://github.com/metocean/docker-aroha) instead.
+- [Vertical Check](https://github.com/metocean/verticalcheck) (author) Check DNS, ping and http.
+-->
