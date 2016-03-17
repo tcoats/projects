@@ -16,6 +16,10 @@
 - [Mutunga](https://github.com/metocean/http-mutunga) (author) An http server that closes idle connections when closing.
 - [Whakaruru](https://github.com/metocean/whakaruru) (author) Zero downtime reloading http server.
 - [Whakaruru Watch](https://github.com/metocean/whakaruru-watch) (author) Zero downtime automatically reloading http server.
+- [Maximum Effort](https://github.com/odojs/maximumeffort) (author) Dispatch tasks to Web Workers.
+- [Check Check](https://github.com/odojs/checkcheck) (author) Build a validator.
+- [Perm](https://github.com/odojs/perm) (author) Super simple permissions.
+- [injectinto](https://github.com/odojs/injectinto) (author) Poor Man's Dependency Injection.
 
 # Interactive Earth
 See [demo](http://metocean.github.io/interactive-earth-handbook/) for example functionality.
@@ -37,8 +41,9 @@ See [demo](http://metocean.github.io/interactive-earth-handbook/) for example fu
 - [D3 Chronological](https://github.com/metocean/d3-chronological) (author) D3 time scale using proper timezone information from momentjs timezone.
 
 # Odo
-- [Odo.js](https://github.com/odojs/odojs) (author) FrontEnd modules like react using [virtual-dom](https://github.com/Matt-Esch/virtual-dom) inspired by [deku](https://github.com/segmentid/deku/). Best understood through the [Odo.js Handbook Example](https://github.com/odojs/odojs-handbook).
+- [Odo.js](https://github.com/odojs/odojs) (author) FrontEnd modules like react using [virtual-dom](https://github.com/Matt-Esch/virtual-dom) inspired by [deku](https://github.com/segmentid/deku/). Best understood through the [Odo.js Handbook Example](https://github.com/odojs/odojs-handbook) or [Odo.js Lite](https://github.com/odojs/odojs-lite).
   - [Odo Relay](https://github.com/odojs/odo-relay) (author) The [relay pattern](http://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html) for Odo.js and OdoQL.
+  - [Odo.js Autocomplete](https://github.com/odojs/odojs-autocomplete) (author) Autocomplete helper.
 - [OdoQL](https://github.com/odojs/odoql) (author) An extendible, composable and modular query language in JSON. [Examples](https://github.com/odojs/odoql/tree/master/examples) available.
   - [OdoQL Exe](https://github.com/odojs/odoql-exe) (author) Execution strategies for OdoQL.
   - [OdoQL FS](https://github.com/odojs/odoql-fs) (author) Read files in OdoQL.
@@ -55,6 +60,7 @@ See [demo](http://metocean.github.io/interactive-earth-handbook/) for example fu
   - [odo-async](https://github.com/odojs/odo-async) (author) Simple async.
   - [odo-layers](https://github.com/odojs/odo-layers) (author) Layered store with commit and rollback.
   - [odo-route](https://github.com/odojs/odo-route) (author) Route url patterns to functions.
+  - [odo-math](https://github.com/odojs/odo-math) (author) Supplementary Mathematical Helpers.
 
 # Cartography
 - [Leaflet GeoTileLayer](https://github.com/metocean/leaflet-geotilelayer) (author) Display GeoJSON tiles in Leaflet.
