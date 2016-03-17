@@ -20,6 +20,7 @@
 - [Perm](https://github.com/odojs/perm) (author) Super simple permissions.
 - [injectinto](https://github.com/odojs/injectinto) (author) Poor Man's Dependency Injection.
 
+<!--
 # Interactive Earth
 See [demo](http://metocean.github.io/interactive-earth-handbook/) for example functionality.
 
@@ -33,6 +34,7 @@ See [demo](http://metocean.github.io/interactive-earth-handbook/) for example fu
 - [Interactive Earth Interaction](https://github.com/metocean/interactive-earth-interaction) (author) Interaction layer for interactive-earth.
 - [Smooth Tile Zoom](https://github.com/metocean/smoothtilezoom) (author) Smooth zoom calculations to stop popping while panning.
 - [Subdivide Line](https://github.com/metocean/subdivideline) (author) Callback n times along a 2D line from a to b
+-->
 
 # Time
 - [Timespanner](https://github.com/metocean/timespanner) (author) Control time with strings like '(Pacific/Auckland)now/d+5d6h'.
