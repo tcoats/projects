@@ -30,26 +30,6 @@
 - [Seuss Queue](https://github.com/odojs/seuss-queue) (author) Efficient memory based queue.
 - [Seuss Backoff](https://github.com/odojs/seuss-backoff) (author) Exponential backoff queue.
 
-# Misc
-- [flexy-grid](https://github.com/odojs/flexy-grid) (author) Flexbox grid css.
-- [pokemon-emails](https://github.com/odojs/pokemon-emails) (author) Catchall email proxy.
-- [dve](https://github.com/metocean/dve) (core contributor) Visualisations built from a simple json structure.
-- [NetCDFjs](https://github.com/metocean/netcdfjs) (author) Read NetCDF files in the browser and with Node.js.
-- [Consul Utils](https://github.com/metocean/consul-utils) (author) Partial Node.js API for Consul.
-- [Consul Backup](https://github.com/metocean/consul-backup) (author) `consul-backup` and `consul-restore` for moving files and folders into and out of Consul.
-- [Consul Sync](https://github.com/metocean/consul-sync) (author) Keep a file's contents updated based on the value of a Consul key.
-- [Doppelgänger](https://github.com/metocean/doppelganger) (author) Register Consul services dynamically.
-- [Redwire](https://github.com/metocean/redwire) (author) A dynamic, high performance, load balancing reverse proxy written in Node.js.
-- [Oakie](https://github.com/tcoats/oakie) (author) Simple tree methods.
-- [Doshit](https://github.com/metocean/doshit) (core contributor) Get stuff done with Node.js and Python.
-- [Mutunga](https://github.com/odojs/http-mutunga) (author) An http server that closes idle connections when closing.
-- [Whakaruru](https://github.com/odojs/whakaruru) (author) Zero downtime reloading http server.
-- [Whakaruru Watch](https://github.com/odojs/whakaruru-watch) (author) Zero downtime automatically reloading http server.
-- [Maximum Effort](https://github.com/odojs/maximumeffort) (author) Dispatch tasks to Web Workers.
-- [Check Check](https://github.com/odojs/checkcheck) (author) Build a validator.
-- [Perm](https://github.com/odojs/perm) (author) Super simple permissions.
-- [injectinto](https://github.com/odojs/injectinto) (author) Poor Man's Dependency Injection.
-
 <!--
 # Interactive Earth
 See [demo](http://metocean.github.io/interactive-earth-handbook/) for example functionality.
@@ -88,6 +68,26 @@ See [demo](http://metocean.github.io/interactive-earth-handbook/) for example fu
 - [PhantomJS Consul](https://github.com/metocean/docker-phantomjs-consul) (author) PhantomJS with Consul and Node.js.
 - [Nginx Consul](https://github.com/metocean/docker-nginx-consul) (author) Nginx with Consul.
 - [Nginx PHP Consul](https://github.com/metocean/docker-nginx-php-consul) (author) Nginx with PHP and Consul.
+
+# Misc
+- [flexy-grid](https://github.com/odojs/flexy-grid) (author) Flexbox grid css.
+- [pokemon-emails](https://github.com/odojs/pokemon-emails) (author) Catchall email proxy.
+- [dve](https://github.com/metocean/dve) (core contributor) Visualisations built from a simple json structure.
+- [NetCDFjs](https://github.com/metocean/netcdfjs) (author) Read NetCDF files in the browser and with Node.js.
+- [Consul Utils](https://github.com/metocean/consul-utils) (author) Partial Node.js API for Consul.
+- [Consul Backup](https://github.com/metocean/consul-backup) (author) `consul-backup` and `consul-restore` for moving files and folders into and out of Consul.
+- [Consul Sync](https://github.com/metocean/consul-sync) (author) Keep a file's contents updated based on the value of a Consul key.
+- [Doppelgänger](https://github.com/metocean/doppelganger) (author) Register Consul services dynamically.
+- [Redwire](https://github.com/metocean/redwire) (author) A dynamic, high performance, load balancing reverse proxy written in Node.js.
+- [Oakie](https://github.com/tcoats/oakie) (author) Simple tree methods.
+- [Doshit](https://github.com/metocean/doshit) (core contributor) Get stuff done with Node.js and Python.
+- [Mutunga](https://github.com/odojs/http-mutunga) (author) An http server that closes idle connections when closing.
+- [Whakaruru](https://github.com/odojs/whakaruru) (author) Zero downtime reloading http server.
+- [Whakaruru Watch](https://github.com/odojs/whakaruru-watch) (author) Zero downtime automatically reloading http server.
+- [Maximum Effort](https://github.com/odojs/maximumeffort) (author) Dispatch tasks to Web Workers.
+- [Check Check](https://github.com/odojs/checkcheck) (author) Build a validator.
+- [Perm](https://github.com/odojs/perm) (author) Super simple permissions.
+- [injectinto](https://github.com/odojs/injectinto) (author) Poor Man's Dependency Injection.
 
 <!--
 # Depreciated
